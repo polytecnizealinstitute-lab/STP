@@ -1,2 +1,3 @@
 this message is to show and understand the updation and editing of file2
-adding one more mesage to this file
+adding one more message to this file
+this message is written from external ways like file explorer 
